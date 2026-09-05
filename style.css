@@ -226,6 +226,11 @@ ul {
     border-bottom-color: var(--primary-color);
 }
 
+.activity-link {
+    display: block;
+    cursor: pointer;
+}
+
 .activity-icon {
     width: 72px;
     height: 72px;

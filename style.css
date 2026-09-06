@@ -245,6 +245,13 @@ ul {
     display: block;
 }
 
+.activity-comic {
+    width: 100%;
+    margin-top: 1rem;
+    border-radius: 12px;
+    display: block;
+}
+
 .activity-icon {
     width: 72px;
     height: 72px;

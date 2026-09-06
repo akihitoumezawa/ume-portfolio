@@ -239,6 +239,12 @@ ul {
     background: #000;
 }
 
+.activity-audio {
+    width: 100%;
+    margin-top: 1rem;
+    display: block;
+}
+
 .activity-icon {
     width: 72px;
     height: 72px;
